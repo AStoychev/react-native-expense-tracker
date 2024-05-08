@@ -36,7 +36,11 @@ function ExpensesOverview() {
           title: "All Expenses",
           tabBarLabel: "All Expenses",
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="calendar" size={size} color={color} />
+            <Ionicons
+              name="calendar"
+              size={size}
+              color={color}
+            />
           ),
         }}
       />

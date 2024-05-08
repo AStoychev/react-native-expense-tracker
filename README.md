@@ -1,0 +1,1 @@
+Simple mobile application to track expense. Main purpose is for education. The application works on both Android and iOS
